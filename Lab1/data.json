@@ -1,0 +1,65 @@
+{
+    "nextId": 6,
+    "items": [
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 0,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "r",
+            "watering_time": "23",
+            "period_id": 1,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 2,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 3,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 4,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 5,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        }
+    ]
+}
