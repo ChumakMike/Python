@@ -62,6 +62,6 @@ def delete_all():
 def save_session():
     with open('data.json', 'w') as outfile:
         json.dump({"nextId": nextId,
-                   "items": [ob.__dict__() for ob in scheduleList]}, outfile, indent=4)
+                   "items": [ob.__dict__ for ob in scheduleList]}, outfile, indent=4)
 
 

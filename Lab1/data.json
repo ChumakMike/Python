@@ -1,5 +1,5 @@
 {
-    "nextId": 6,
+    "nextId": 10,
     "items": [
         {
             "area_name": "uu",
@@ -55,6 +55,46 @@
             "area_name": "uu",
             "watering_time": "23",
             "period_id": 5,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 6,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 7,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 8,
+            "watering_time_duration": "4",
+            "days_of_week_arr": [
+                "f",
+                "d"
+            ]
+        },
+        {
+            "area_name": "uu",
+            "watering_time": "23",
+            "period_id": 9,
             "watering_time_duration": "4",
             "days_of_week_arr": [
                 "f",
