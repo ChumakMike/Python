@@ -1,5 +1,5 @@
 {
-    "nextId": 10,
+    "nextId": 4,
     "items": [
         {
             "area_name": "uu",
@@ -12,7 +12,7 @@
             ]
         },
         {
-            "area_name": "r",
+            "area_name": "uu",
             "watering_time": "23",
             "period_id": 1,
             "watering_time_duration": "4",
@@ -35,66 +35,6 @@
             "area_name": "uu",
             "watering_time": "23",
             "period_id": 3,
-            "watering_time_duration": "4",
-            "days_of_week_arr": [
-                "f",
-                "d"
-            ]
-        },
-        {
-            "area_name": "uu",
-            "watering_time": "23",
-            "period_id": 4,
-            "watering_time_duration": "4",
-            "days_of_week_arr": [
-                "f",
-                "d"
-            ]
-        },
-        {
-            "area_name": "uu",
-            "watering_time": "23",
-            "period_id": 5,
-            "watering_time_duration": "4",
-            "days_of_week_arr": [
-                "f",
-                "d"
-            ]
-        },
-        {
-            "area_name": "uu",
-            "watering_time": "23",
-            "period_id": 6,
-            "watering_time_duration": "4",
-            "days_of_week_arr": [
-                "f",
-                "d"
-            ]
-        },
-        {
-            "area_name": "uu",
-            "watering_time": "23",
-            "period_id": 7,
-            "watering_time_duration": "4",
-            "days_of_week_arr": [
-                "f",
-                "d"
-            ]
-        },
-        {
-            "area_name": "uu",
-            "watering_time": "23",
-            "period_id": 8,
-            "watering_time_duration": "4",
-            "days_of_week_arr": [
-                "f",
-                "d"
-            ]
-        },
-        {
-            "area_name": "uu",
-            "watering_time": "23",
-            "period_id": 9,
             "watering_time_duration": "4",
             "days_of_week_arr": [
                 "f",
